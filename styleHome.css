@@ -95,7 +95,8 @@ body{
 }
 
 #Btn{
-    width: 80px;
+    width: 100px;
+    height: 30px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 15px;
